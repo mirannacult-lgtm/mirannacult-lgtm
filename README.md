@@ -1,4 +1,4 @@
-# Miranda Kiesel
+# Miranda 
 
 ### AI Systems Specialist · QA · Compliance · Integration
 
