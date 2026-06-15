@@ -2,10 +2,6 @@
 
 ### AI Systems Specialist · QA · Compliance · Integration
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mirandakiesel-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mirandakiesel)
-![Location](https://img.shields.io/badge/Location-Scottsbluff%2C%20Nebraska-6f42c1?style=flat)
-![Pronouns](https://img.shields.io/badge/Pronouns-she%2Fher-ff69b4?style=flat)
-
 ---
 
 ## About Me
@@ -36,7 +32,4 @@ Currently working independently on AI research, content evaluation, and systems 
 
 ---
 
-## Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/mirandakiesel)
-- 📍 Scottsbluff, Nebraska, United States
